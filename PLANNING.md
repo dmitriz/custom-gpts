@@ -2,7 +2,9 @@
 
 ## Project Goal
 
-Testing custom GPTs on ChatGPT platform for professional-level AI assistance. Focus on quality evaluation and best practices.
+Testing OpenAI Custom GPTs for professional-level AI assistance. 
+
+**Important:** This refers specifically to OpenAI's "GPTs" feature in ChatGPT Plus/Enterprise (see [OpenAI GPTs documentation](https://openai.com/index/introducing-gpts/)), NOT third-party services using similar names. Focus on quality evaluation and best practices for OpenAI's platform only.
 
 ## Workflow Rules (Strict Adherence Required)
 
@@ -14,16 +16,16 @@ Testing custom GPTs on ChatGPT platform for professional-level AI assistance. Fo
 
 ## Immediate High-Impact Issues to Fix
 
-1. **URGENT: Scoring system incomplete** - evaluator instructions lack 1-5 scale definitions
+1. ~~**URGENT: Scoring system incomplete** - evaluator instructions lack 1-5 scale definitions~~ **COMPLETED**
 2. **Test case mismatch** - current test uses API topic but project may need different focus
 
 ## Future Ideas (Capture Only - No Implementation)
 
-- Expand test coverage to different technical topics
-- Add edge case testing
-- Research MCP servers for additional capabilities
-- Best practices documentation
-- Sustainable project structure
+- Expand test coverage to different technical topics (software architecture, security, performance)
+- Add edge case testing for GPT responses (ambiguous inputs, conflicting requirements, incomplete information)
+- Research additional MCP servers for enhanced capabilities
+- Best practices documentation for Custom GPT creation and evaluation
+- Sustainable project structure for scaling test cases
 
 ## Notes
 
