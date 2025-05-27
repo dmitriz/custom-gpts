@@ -20,6 +20,10 @@ Superficial answers score low. Depth in architecture, design trade-offs, limitat
 
 Responses should highlight flaws or gaps in logic or knowledge, and propose actionable improvements when needed.
 
+## Rule 6: Single-Version Policy for Research Files
+
+- Only one version of each research file is allowed. Always update the main file (e.g., research-findings-2025.md) and delete all duplicates immediately. No parallel or backup versions.
+
 ## Scoring Criteria (per response)
 
 - Accuracy: __/5

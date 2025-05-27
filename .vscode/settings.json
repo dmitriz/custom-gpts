@@ -1,0 +1,10 @@
+{
+  "markdownlint.config": {
+    "MD012": {
+      "maximum": 1
+    },
+    "MD022": true,
+    "MD025": false,
+    "MD041": false
+  }
+}
