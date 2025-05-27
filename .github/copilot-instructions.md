@@ -29,6 +29,7 @@
 - **SHORT responses only** - No long explanations
 - **NO examples unless approved** - Examples can confuse/bias
 - **CRITICAL review only** - Focus on high-impact issues, ignore minor formatting/style items
+- **NO completed items in planning** - Planning is for current work and backlog only, not historical records
 
 ## Confirmation: Rules I Follow
 

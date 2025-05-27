@@ -7,10 +7,9 @@ Evaluation framework for [OpenAI Custom GPTs](https://openai.com/index/introduci
 ## 📁 Current Structure
 
 - **📝 `simple-evaluation.md`** - Minimal evaluation method
-- **⚙️ `gpt-evaluator-simple.md`** - Basic evaluation instructions
 - **📋 `PLANNING.md`** - Project roadmap and workflow
-- **📂 `advanced/`** - Complex features
-- **📂 `rulebooks/`** - Evaluation criteria
+- **📂 `advanced/`** - Complex features for future development
+- **📂 `rulebooks/`** - Evaluation criteria and scoring framework
 
 ## 🎯 Goal
 
