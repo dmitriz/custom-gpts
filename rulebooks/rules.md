@@ -22,8 +22,8 @@ Responses should highlight flaws or gaps in logic or knowledge, and propose acti
 
 ## Scoring Criteria (per response)
 
-- Accuracy: /5
-- Depth: /5
-- Clarity: /5
-- Rule Adherence: /5
-- Overall Usefulness: /5
+- Accuracy: __/5
+- Depth: __/5
+- Clarity: __/5
+- Rule Adherence: __/5
+- Overall Usefulness: __/5
