@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "mcp-local-rag": {
+      "command": "C:\\Users\\dmitr\\.local\\bin\\uvx.exe",
+      "args": [
+        "--python=3.10",
+        "--from",
+        "git+https://github.com/nkapila6/mcp-local-rag",
+        "mcp-local-rag"
+      ]
+    }
+  }
+}
