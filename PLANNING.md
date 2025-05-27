@@ -14,11 +14,28 @@ Testing OpenAI Custom GPTs for professional-level AI assistance.
 - **NO examples unless approved** - examples can confuse/bias
 - **CRITICAL review only** - discard minor items
 
-## ⚡ Immediate High-Impact Issues to Fix
+## 🎯 Project Intent
 
-1. ~~**URGENT: Scoring system incomplete**~~ ✅ **COMPLETED**
-2. **Directory structure** - Renamed `tests/` → `evaluations/` for clarity
-3. **Simplified GPT instructions** - Created minimal version for initial testing
+**Main Goal:** Evaluate Custom GPTs created on OpenAI platform to see if they actually follow their custom instructions.
+
+**Specific Use Case:** Compare responses between:
+- Your Custom GPT (with specific instructions)  
+- Regular ChatGPT (no custom instructions)
+
+**Key Question:** Does the Custom GPT perform differently/better than regular ChatGPT according to its instructions?
+
+## ⚡ Current Simple Focus
+
+- Create minimal evaluation method
+- Test one Custom GPT vs regular ChatGPT
+- Document clear differences (or lack thereof)
+
+## 🔄 Advanced Features (Future Work)
+
+All complex features moved to `advanced/` folder:
+- Multi-criteria scoring systems
+- Detailed evaluation rubrics  
+- Complex test scenarios
 
 ## Future Ideas (Capture Only - No Implementation)
 

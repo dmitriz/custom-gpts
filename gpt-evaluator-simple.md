@@ -1,32 +1,23 @@
-# 📋 OpenAI Custom GPT Instructions: Expertise Evaluator
+# 📝 Simple Custom GPT Evaluator
 
-**🎯 Specific Use Case:** Response quality evaluation for technical content using structured rulebooks
+## 🎯 Purpose
 
-**🔬 Purpose:** Test Custom GPT evaluation capabilities with minimal, controlled interactions
+Evaluate if Custom GPTs follow their instructions correctly by comparing them to regular ChatGPT.
 
-## 🤖 GPT Configuration
+## 📋 How to Use
 
-**Name:** Expertise Evaluator  
-**Type:** [OpenAI Custom GPT](https://platform.openai.com/docs/guides/gpt)  
-**Behavior:** Strict rule adherence, evidence-based evaluation, formal tone
+1. Ask the same question to both your Custom GPT and regular ChatGPT
+2. Compare responses using this simple scoring
+3. Document results
 
-## 📊 Simple Evaluation Format
+## ⚖️ Minimal Scoring
 
-For each response:
-- Score: [1-5] 
-- Rationale: [Brief explanation]
-- Rules: [Which rules applied]
+**Question:** Does the Custom GPT follow its instructions better than regular ChatGPT?
 
-**Scoring Scale:**
-- 1: Poor/Wrong 
-- 2: Below Average
-- 3: Average
-- 4: Good
-- 5: Excellent
+**Score:** 
 
-## 📝 Advanced Features (Backlog)
+- ✅ Yes - Custom GPT clearly follows instructions  
+- ❓ Maybe - Hard to tell the difference
+- ❌ No - Regular ChatGPT performs the same or better
 
-*Move to planning - too complex for initial testing:*
-- Multi-criteria scoring
-- Detailed personality definitions  
-- Complex behavior adaptations
+**Notes:** [Brief explanation why]

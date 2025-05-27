@@ -17,8 +17,8 @@
 ## Project Structure Rules
 
 - **Prefer flat structure** - Avoid folders for single files
-- **Only create folders when busy** - Start with top-level files, folder when needed
-- **Use clear directory names** - Avoid ambiguous names like "tests" for evaluations
+- **Only create folders when too many files** - Start with top-level files, create folders when 10+ files in directory
+- **Use clear directory names** - Only lowercase with dashes (e.g., `evaluation-cases`, `gpt-configs`)
 - **Generic rules go to appropriate global files** - Not in project-specific documents
 
 ## Workflow Rules
@@ -27,13 +27,13 @@
 - **NO implementation without explicit approval**
 - **SHORT responses only** - No long explanations
 - **NO examples unless approved** - Examples can confuse/bias
-- **CRITICAL review only** - Discard minor items
+- **CRITICAL review only** - Focus on high-impact issues, ignore minor formatting/style items
 
 ## Confirmation: Rules I Follow
 
-✅ Minimize diff sizes for easy review  
-✅ Include relevant links automatically  
-✅ Use engaging visual elements  
-✅ Separate specific vs generic content  
+✅ Make minimal diff changes for easy review  
+✅ Include relevant documentation links automatically  
+✅ Use engaging visual elements (icons/emojis)  
+✅ Separate specific vs generic content clearly  
 ✅ Prefer flat project structure  
-✅ Only implement with approval
+✅ Only implement with explicit approval
