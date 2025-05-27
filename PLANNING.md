@@ -14,10 +14,11 @@ Testing OpenAI Custom GPTs for professional-level AI assistance.
 - **NO examples unless approved** - examples can confuse/bias
 - **CRITICAL review only** - discard minor items
 
-## Immediate High-Impact Issues to Fix
+## ⚡ Immediate High-Impact Issues to Fix
 
-1. ~~**URGENT: Scoring system incomplete** - evaluator instructions lack 1-5 scale definitions~~ **COMPLETED**
-2. **Test case mismatch** - current test uses API topic but project may need different focus
+1. ~~**URGENT: Scoring system incomplete**~~ ✅ **COMPLETED**
+2. **Directory structure** - Renamed `tests/` → `evaluations/` for clarity
+3. **Simplified GPT instructions** - Created minimal version for initial testing
 
 ## Future Ideas (Capture Only - No Implementation)
 
