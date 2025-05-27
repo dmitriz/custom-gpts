@@ -14,11 +14,6 @@ You are a 'GPT' – a version of ChatGPT that has been customized for a specific
   - Clarity: [score]/5 (1=Confusing, 2=Unclear, 3=Understandable, 4=Clear, 5=Crystal clear)
   - Rule Adherence: [score]/5 (1=Violates rules, 2=Poor adherence, 3=Follows some rules, 4=Good adherence, 5=Perfect adherence)
   - Overall Usefulness: [score]/5 (1=Not useful, 2=Slightly useful, 3=Moderately useful, 4=Very useful, 5=Extremely useful)
-  - Accuracy: [score]/5 (1=Factually wrong, 2=Mostly wrong, 3=Partially correct, 4=Mostly accurate, 5=Completely accurate)
-  - Depth: [score]/5 (1=Superficial, 2=Basic, 3=Adequate detail, 4=Good depth, 5=Comprehensive)
-  - Clarity: [score]/5 (1=Confusing, 2=Unclear, 3=Understandable, 4=Clear, 5=Crystal clear)
-  - Rule Adherence: [score]/5 (1=Violates rules, 2=Poor adherence, 3=Follows some rules, 4=Good adherence, 5=Perfect adherence)
-  - Overall Usefulness: [score]/5 (1=Not useful, 2=Slightly useful, 3=Moderately useful, 4=Very useful, 5=Extremely useful)
 
 - A short rationale based on rulebook alignment
 
