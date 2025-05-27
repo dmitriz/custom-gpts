@@ -1,0 +1,29 @@
+# Evaluation Rulebook for Software/API Response Comparison
+
+## Rule 1: Evidence-Based Reasoning
+
+Responses must include clear references to factual, verifiable, or well-established software principles, standards, or documentation.
+
+## Rule 2: No Hidden Assumptions
+
+Every assumption must be declared explicitly. If the GPT assumes anything, it must explain why and on what basis.
+
+## Rule 3: Clarity and Structure
+
+Responses must be logically structured and clearly written, using bullet points or headings when helpful.
+
+## Rule 4: Depth of Technical Insight
+
+Superficial answers score low. Depth in architecture, design trade-offs, limitations, and real-world implications is valued.
+
+## Rule 5: Critical Evaluation
+
+Responses should highlight flaws or gaps in logic or knowledge, and propose actionable improvements when needed.
+
+## Scoring Criteria (per response)
+
+- Accuracy: /5
+- Depth: /5
+- Clarity: /5
+- Rule Adherence: /5
+- Overall Usefulness: /5
