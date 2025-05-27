@@ -44,7 +44,7 @@ For more details: [OpenAI Actions Documentation](https://platform.openai.com/doc
 
 ### Multistep Workflows in Custom GPTs
 
-Custom GPTs can maintain context and perform multi-step operations through their conversation interface:
+Custom GPTs can maintain context and perform multistep operations through their conversation interface:
 
 **Context Retention Mechanism**:
 
@@ -171,7 +171,7 @@ For current model availability: [OpenAI Models Documentation](https://platform.o
 Variable Pricing Structure:
 - GPT-4o: $0.0025 per 1K input tokens, $0.01 per 1K output tokens
 - GPT-4.1: $0.03 per 1K input tokens, $0.12 per 1K output tokens  
-- o3-mini: $3.00 per 1K reasoning tokens
+- o1-mini: $3.00 per 1K reasoning tokens
 - Code Interpreter: $0.03 per session
 - File Search: $2.50 per 1K calls
 - Image Generation: $0.011–$0.044 per image
