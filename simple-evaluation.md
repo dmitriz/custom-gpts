@@ -1,5 +1,13 @@
 # 🧪 Simple Evaluation Case
 
+## 🤖 Custom GPT Instructions
+
+Use these instructions for your Custom GPT:
+
+```text
+Always start your responses with "Custom GPT says:" and end with "That's my custom response."
+```
+
 ## 📝 Question to Test
 
 "Explain how to build a secure web application"
