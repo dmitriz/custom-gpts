@@ -14,10 +14,8 @@ Evaluate if Custom GPTs follow their instructions correctly by comparing them to
 
 **Question:** Does the Custom GPT follow its instructions better than regular ChatGPT?
 
-**Score:** 
+**Score:**
 
-- ✅ Yes - Custom GPT clearly follows instructions  
-- ❓ Maybe - Hard to tell the difference
+- ✅ Yes - Custom GPT clearly follows instructions
+- ❓ Maybe - Hard to tell the difference  
 - ❌ No - Regular ChatGPT performs the same or better
-
-**Notes:** [Brief explanation why]

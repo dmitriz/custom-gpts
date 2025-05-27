@@ -19,7 +19,8 @@ Testing OpenAI Custom GPTs for professional-level AI assistance.
 **Main Goal:** Evaluate Custom GPTs created on OpenAI platform to see if they actually follow their custom instructions.
 
 **Specific Use Case:** Compare responses between:
-- Your Custom GPT (with specific instructions)  
+
+- Your Custom GPT (with specific instructions)
 - Regular ChatGPT (no custom instructions)
 
 **Key Question:** Does the Custom GPT perform differently/better than regular ChatGPT according to its instructions?
@@ -33,9 +34,68 @@ Testing OpenAI Custom GPTs for professional-level AI assistance.
 ## 🔄 Advanced Features (Future Work)
 
 All complex features moved to `advanced/` folder:
+
 - Multi-criteria scoring systems
-- Detailed evaluation rubrics  
+- Detailed evaluation rubrics
 - Complex test scenarios
+
+## 📝 Complete Chat History - Items Discussed
+
+### ✅ Completed Items
+
+- Fixed scoring system definitions (1-5 scale)
+- Created GitHub Copilot instructions with strict markdown rules
+- Renamed `tests/` to `evaluations/` for clarity
+- Created simplified evaluation method
+- Moved complex files to `advanced/` folder
+- Updated project structure to flat hierarchy
+- Added visual elements (emojis/icons) to documentation
+- Created minimal Custom GPT vs regular ChatGPT comparison method
+- Stripped README of "work in progress" language
+- Removed confusing elements from evaluation forms
+
+### 🎯 Current Focus Items
+
+- Minimal evaluation method testing
+- Simple Custom GPT instruction-following evaluation
+- Flat project structure maintenance
+
+### 📋 Backlog Items
+
+- Expand test coverage to different technical topics (software architecture, security, performance)
+- Add edge case testing for GPT responses (ambiguous inputs, conflicting requirements, incomplete information)
+- Research additional MCP servers:
+  - Context7 (mentioned but not available)
+  - GitHub MCP (connection issues, needs configuration)
+  - Database MCP for data persistence
+  - Testing MCP for automated testing
+- Best practices documentation for Custom GPT creation and evaluation
+- Sustainable project structure for scaling test cases
+- Professional-level AI assistance evaluation framework
+- Multiple test scenarios beyond API design
+- Advanced scoring rubrics with multiple criteria
+- Automated testing capabilities exploration
+
+### 🔧 MCP Server Status
+
+**Available:**
+
+- `promptBoost` - Enhance prompt quality
+- `f51_resolve-library-id` & `f51_get-library-docs` - Library documentation
+- `fetch_webpage` - Web research
+
+**Issues:**
+
+- `github_repo` - Connection problems, authentication needed
+- Context7 - Not currently available, requires installation
+
+### 📊 Evaluation Methods Discussed
+
+- Simple Yes/Maybe/No scoring (current)
+- 1-5 scale detailed scoring (moved to advanced)
+- Multi-criteria evaluation (backlog)
+- Evidence-based reasoning requirements (advanced)
+- Rule adherence checking (advanced)
 
 ## Future Ideas (Capture Only - No Implementation)
 

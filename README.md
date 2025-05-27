@@ -6,21 +6,18 @@ Evaluation framework for [OpenAI Custom GPTs](https://openai.com/index/introduci
 
 ## 📁 Current Structure
 
-### 🚧 Work in Progress
-
-- **📝 `simple-evaluation.md`** - Minimal evaluation method (draft)
-- **⚙️ `gpt-evaluator-simple.md`** - Basic evaluation instructions (draft)  
+- **📝 `simple-evaluation.md`** - Minimal evaluation method
+- **⚙️ `gpt-evaluator-simple.md`** - Basic evaluation instructions
 - **📋 `PLANNING.md`** - Project roadmap and workflow
-- **📂 `advanced/`** - Complex features for future development
+- **📂 `advanced/`** - Complex features
+- **📂 `rulebooks/`** - Evaluation criteria
 
-### 🎯 Current Status
+## 🎯 Goal
 
-**Nothing implemented yet** - All files are drafts requiring approval.
-
-**Goal:** Create the simplest possible method to compare Custom GPT vs regular ChatGPT performance.
+Create the simplest possible method to compare Custom GPT vs regular ChatGPT performance.
 
 ## 🔄 Workflow Rules
 
-- HIGH-IMPACT changes only  
+- HIGH-IMPACT changes only
 - NO implementation without explicit approval
 - Focus on minimalism and simplicity

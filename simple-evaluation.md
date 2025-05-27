@@ -15,7 +15,5 @@
 **Does the Custom GPT follow its specific instructions?**
 
 - ✅ **Yes** - Clear difference, follows custom instructions
-- ❓ **Maybe** - Some difference but unclear  
+- ❓ **Maybe** - Some difference but unclear
 - ❌ **No** - No meaningful difference from regular ChatGPT
-
-**Notes:** [Write your observations here]

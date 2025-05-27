@@ -6,6 +6,7 @@
 - **Use minimal context** - Include only 3-5 lines before/after changes in replace operations
 - **Avoid large deletions** - Break large changes into smaller, reviewable chunks
 - **Make changes trackable** - Each edit should show clear, specific differences
+- **MANDATORY: Fix ALL markdown warnings** - ABSOLUTELY REQUIRED to check and fix ANY markdown problems before declaring work complete. NO EXCEPTIONS.
 
 ## Documentation & Formatting Rules
 
