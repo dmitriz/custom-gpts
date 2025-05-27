@@ -12,6 +12,7 @@
 
 - **Always include relevant links** - Add documentation links whenever possible without asking
 - **Use clear, descriptive titles** - Titles should explain content purpose immediately
+- **Remove numbers from titles** - Never use numbered titles (1., 2., etc.) - use clear descriptive titles instead
 - **Add visual elements** - Use icons/emojis to make content more engaging ✅ 🔧 📝
 - **Separate specific vs generic content** - Clearly mark what's use-case specific vs reusable
 
@@ -35,6 +36,7 @@
 
 ✅ Make minimal diff changes for easy review  
 ✅ Include relevant documentation links automatically  
+✅ Use clear descriptive titles without numbers  
 ✅ Use engaging visual elements (icons/emojis)  
 ✅ Separate specific vs generic content clearly  
 ✅ Prefer flat project structure  
