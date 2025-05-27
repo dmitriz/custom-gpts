@@ -1,20 +1,19 @@
 # GitHub Copilot Instructions & Rules
-For full context, see the project README:
-https://github.com/dmitriz/custom-gpts/blob/main/README.md
+For full context, see the [project README](https://github.com/dmitriz/custom-gpts/blob/main/README.md).
 ## Code Review & Change Management Rules
 
 - **Minimize diff size** - Make fragment-by-fragment changes, not large paragraph replacements
-- **Use minimal context** - Include only 3-5 lines before/after changes in replace operations
+- **Use minimal context** – Include only 3–5 lines before/after changes in replace operations
 - **Avoid large deletions** - Break large changes into smaller, reviewable chunks
 - **Make changes trackable** - Each edit should show clear, specific differences
-- **MANDATORY: Fix ALL markdown warnings** - ABSOLUTELY REQUIRED to check and fix ANY markdown problems before declaring work complete. NO EXCEPTIONS.
+- **MANDATORY: Fix all markdown warnings** – Required to fix any markdown issues before declaring work complete. No exceptions.
 
 ## Documentation & Formatting Rules
 
 - **Always include relevant links** - Add documentation links whenever possible without asking
 - **Use clear, descriptive titles** - Titles should explain content purpose immediately
 - **Remove numbers from titles** - Never use numbered titles (1., 2., etc.) - use clear descriptive titles instead
-- **Add visual elements** - Use icons/emojis to make content more engaging ✅ 🔧 📝
+- **Add visual elements** – Use icons and emojis to make content more engaging with relevant visuals (e.g., ✅ 🔧 📝)
 - **Separate specific vs generic content** - Clearly mark what's use-case specific vs reusable
 
 ## Project Structure Rules
@@ -26,7 +25,7 @@ https://github.com/dmitriz/custom-gpts/blob/main/README.md
 
 ## Workflow Rules
 
-- **HIGH-IMPACT, QUICK WINS ONLY** - Everything else goes to planning
+- **HIGH-IMPACT, QUICK WINS ONLY** - Everything else goes to [planning](../PLANNING.md)
 - **NO implementation without explicit approval**
 - **SHORT responses only** - No long explanations
 - **NO examples unless approved** - Examples can confuse/bias

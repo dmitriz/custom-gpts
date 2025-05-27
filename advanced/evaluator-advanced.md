@@ -6,9 +6,9 @@ Evaluate if Custom GPTs follow their instructions correctly by comparing them to
 
 ## 📋 How to Use
 
-1. Ask the same question to both your Custom GPT and regular ChatGPT
-2. Compare responses using this simple scoring
-3. Document results
+- Ask the same question to both your Custom GPT and regular ChatGPT
+- Compare responses using this simple scoring
+- Document results
 
 ## ⚖️ Minimal Scoring
 

@@ -14,9 +14,9 @@ Always start your responses with "Custom GPT says:" and end with "That's my cust
 
 ## 🎯 Test Instructions
 
-1. Ask this question to your Custom GPT
-2. Ask the same question to regular ChatGPT  
-3. Compare the responses
+- Ask this question to your Custom GPT
+- Ask the same question to regular ChatGPT  
+- Compare the responses
 
 ## ⚖️ Evaluation
 

@@ -13,7 +13,7 @@
 
 ## 🔌 Custom GPT Actions - API Integration
 
-Custom GPT Actions allow OpenAI Custom GPTs (available on ChatGPT platform) to integrate with external APIs through OpenAPI specifications. This enables GPTs to access real-time data and perform actions beyond text generation.
+Custom GPT Actions allow OpenAI Custom GPTs (available on the ChatGPT platform) to integrate with external APIs through OpenAPI specifications. This enables GPTs to access real-time data and perform actions beyond text generation.
 
 ### OpenAPI Schema Requirements
 
@@ -42,7 +42,7 @@ When creating Actions for your Custom GPT, you must provide an OpenAPI specifica
 
 For more details: [OpenAI Actions Documentation](https://platform.openai.com/docs/actions)
 
-### Multi-Step Workflows in Custom GPTs
+### Multistep Workflows in Custom GPTs
 
 Custom GPTs can maintain context and perform multi-step operations through their conversation interface:
 
@@ -174,7 +174,7 @@ Variable Pricing Structure:
 - o3-mini: $3.00 per 1K reasoning tokens
 - Code Interpreter: $0.03 per session
 - File Search: $2.50 per 1K calls
-- Image Generation: $0.011-$0.044 per image
+- Image Generation: $0.011–$0.044 per image
 ```
 
 **Performance Inconsistencies**:
