@@ -39,3 +39,7 @@
 ✅ Separate specific vs generic content clearly  
 ✅ Prefer flat project structure  
 ✅ Only implement with explicit approval
+
+## Global Rules
+
+- **NEVER create duplicate or backup files** - Always update the original file directly. There must only ever be one version of any file in the project. This applies to all files, not just research or documentation. No parallel, backup, or alternate versions allowed.
