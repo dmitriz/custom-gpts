@@ -1,5 +1,6 @@
 # GitHub Copilot Instructions & Rules
-
+For full context, see the project README:
+https://github.com/dmitriz/custom-gpts/blob/main/README.md
 ## Code Review & Change Management Rules
 
 - **Minimize diff size** - Make fragment-by-fragment changes, not large paragraph replacements
