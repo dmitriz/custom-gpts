@@ -5,11 +5,11 @@
 
 ## 📋 Table of Contents
 
-1. [Custom GPT Actions - API Integration](#-custom-gpt-actions---api-integration)
-2. [Current Model Landscape](#-current-model-landscape-may-2025)
-3. [Enterprise Deployment Patterns](#-enterprise-deployment-patterns)
-4. [Evaluation Methodologies](#evaluation-methodologies-2025-standards)
-5. [Technical Limitations](#current-technical-limitations)
+- [Custom GPT Actions - API Integration](#-custom-gpt-actions---api-integration)
+- [Current Model Landscape](#-current-model-landscape-may-2025)
+- [Enterprise Deployment Patterns](#-enterprise-deployment-patterns)
+- [Evaluation Methodologies](#evaluation-methodologies-2025-standards)
+- [Technical Limitations](#current-technical-limitations)
 
 ## 🔌 Custom GPT Actions - API Integration
 
@@ -74,19 +74,19 @@ Note: The "50+ action calls" claim could not be verified through official docume
 
 **GPT-4 Series**:
 
-1. **GPT-4o**: Default multimodal model, 128K context  
+- **GPT-4o**: Default multimodal model, 128K context  
    *Best for: General tasks, image analysis, document processing*  
    *Source: [OpenAI Model Documentation](https://platform.openai.com/docs/models)*
-2. **GPT-4.1**: Latest coding-focused model, 1M context (May 2025)  
+- **GPT-4.1**: Latest coding-focused model, 1M context (May 2025)  
    *Best for: Programming, code review, technical documentation*  
    *89.2% HumanEval pass rate vs 86.7% for GPT-4o*
 
 **Reasoning Models** (ChatGPT Plus required):
 
-1. **o1-preview**: Advanced reasoning, slower responses  
+- **o1-preview**: Advanced reasoning, slower responses  
    *Best for: Mathematical proofs, complex logic, research analysis*  
    *Source: [OpenAI o1 System Card](https://openai.com/index/openai-o1-system-card/)*
-2. **o1-mini**: Faster reasoning model  
+- **o1-mini**: Faster reasoning model  
    *Best for: Coding problems, STEM homework, quick analysis*  
    *65% cost reduction vs o1-preview*
 
@@ -127,27 +127,27 @@ For current model availability: [OpenAI Models Documentation](https://platform.o
 
 **Multi-Criteria Assessment Framework**:
 
-1. **Instruction Adherence** (Weight: 25%)
-   - Literal compliance measured through automated testing suites
-   - Context preservation across conversation turns
-   - Format consistency validation (JSON/XML schemas)
-   - *Evaluation methodology: Custom rubric developed by Anthropic (2024)*
+- **Instruction Adherence** (Weight: 25%)
+  - Literal compliance measured through automated testing suites
+  - Context preservation across conversation turns
+  - Format consistency validation (JSON/XML schemas)
+  - *Evaluation methodology: Custom rubric developed by Anthropic (2024)*
 
-2. **Domain Accuracy** (Weight: 30%)
-   - Fact verification against authoritative knowledge bases
-   - Technical precision in specialized domains
-   - Regulatory compliance for medical/legal applications
-   - *Data source: 10,000 expert-validated test cases across 50 domains*
+- **Domain Accuracy** (Weight: 30%)
+  - Fact verification against authoritative knowledge bases
+  - Technical precision in specialized domains
+  - Regulatory compliance for medical/legal applications
+  - *Data source: 10,000 expert-validated test cases across 50 domains*
 
-3. **Response Quality** (Weight: 25%)
-   - Clarity metrics: Flesch-Kincaid readability scores
-   - Completeness: Coverage of user query components
-   - Relevance: Semantic similarity to expected outputs
+- **Response Quality** (Weight: 25%)
+  - Clarity metrics: Flesch-Kincaid readability scores
+  - Completeness: Coverage of user query components
+  - Relevance: Semantic similarity to expected outputs
 
-4. **Safety & Bias** (Weight: 20%)
-   - Harmful content detection: <0.1% false positive rate
-   - Bias measurement: Across demographic categories
-   - Privacy protection: PII detection and redaction
+- **Safety & Bias** (Weight: 20%)
+  - Harmful content detection: <0.1% false positive rate
+  - Bias measurement: Across demographic categories
+  - Privacy protection: PII detection and redaction
 
 **Real-World Dataset Validation**:
 
