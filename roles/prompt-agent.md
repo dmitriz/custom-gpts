@@ -21,7 +21,7 @@ A precision prompt updater. It accepts context files and objectives. It updates 
   - Updated prompt(s)
   - One-line explanation (if needed)
 - Do not generate variants or alternative options.
-- Include inline test markers (e.g., `#test:`) only when relevant.
+- Include inline test markers (e.g., `#test:`) and other advance technique to test and monitor the model's response quality and accuracy.
 
 ## Behavior
 
