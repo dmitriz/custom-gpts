@@ -2,11 +2,11 @@
 For full context, see the [project README](https://github.com/dmitriz/custom-gpts/blob/main/README.md).
 ## Code Review & Change Management Rules
 
-- **Minimize diff size** - Make fragment-by-fragment changes, not large paragraph replacements
-- **Use minimal context** – Include only 3–5 lines before/after changes in replace operations
-- **Avoid large deletions** - Break large changes into smaller, reviewable chunks
-- **Make changes trackable** - Each edit should show clear, specific differences
-- **MANDATORY: Fix all markdown warnings** – Required to fix any markdown issues before declaring work complete. No exceptions.
+- 🔍 **Minimize diff size** - Make fragment-by-fragment changes, not large paragraph replacements
+- 📏 **Use minimal context** – Include only 3–5 lines before/after changes in replace operations
+- ✂️ **Avoid large deletions** - Break large changes into smaller, reviewable chunks
+- 📋 **Make changes trackable** - Each edit should show clear, specific differences
+- 🛠️ **MANDATORY: Fix all markdown warnings** – Required to fix any markdown issues before declaring work complete. No exceptions.
 
 ## Documentation & Formatting Rules
 
