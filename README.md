@@ -9,7 +9,7 @@ Evaluation framework for [OpenAI Custom GPTs](https://openai.com/index/introduci
 - **📝 `simple-evaluation.md`** - Minimal evaluation method
 - **📋 `PLANNING.md`** - Project roadmap and workflow
 - **📂 `advanced/`** - Complex features for future development
-- **📂 `rulebooks/`** - Reusable rule sets and behavioral protocols that define the core logic for working with and customizing GPTs. Each file is designed to be modular, minimal, and composable — such as `universal-core.md`, which defines foundational behavioral standards and automation protocols for any GPT configuration.
+- **📂 `rulebooks/`** - Reusable rule sets and behavioral protocols that define the core logic for working with and customizing GPTs. Each file is designed to be modular, minimal, and composable — such as [`universal-core.md`](rulebooks/universal-core.md), which defines foundational behavioral standards and automation protocols for any GPT configuration.
 
 ## 🎯 Goal
 
