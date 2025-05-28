@@ -9,7 +9,7 @@ Evaluation framework for [OpenAI Custom GPTs](https://openai.com/index/introduci
 - **📝 `simple-evaluation.md`** - Minimal evaluation method
 - **📋 `PLANNING.md`** - Project roadmap and workflow
 - **📂 `advanced/`** - Complex features for future development
-- **📂 `rulebooks/`** - Evaluation criteria and scoring framework
+- **📂 `rulebooks/`** - Reusable rule sets and behavioral protocols that define the core logic for working with and customizing GPTs. Each file is designed to be modular, minimal, and composable.
 
 ## 🎯 Goal
 
