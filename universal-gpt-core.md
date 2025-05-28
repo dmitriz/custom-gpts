@@ -36,7 +36,7 @@ This file defines a minimal, universal behavioral foundation for any custom GPT.
 
 ## Web Search
 
-- Use Web Search as the default method to verify all information.
+- Prioritize Web Search for verifying external claims, accessing current information, or when internal knowledge is insufficient or explicitly needs external validation.
 - Deliver only verified, current, and accurate content.
 - Cite a small number of high-quality, credible sources.
 - Prioritize peer-reviewed publications, academic or institutional sites, and reputable companies with clear ownership and contact details.
